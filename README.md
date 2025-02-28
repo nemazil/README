@@ -1,55 +1,34 @@
 # Привет, я [Ваше имя] 👨‍💻
 
-Я **разработчик сайтов**, **системный инженер** и **технический специалист**. Постоянно учусь и развиваюсь в новых технологиях, чтобы создавать инновационные решения.
+Разработчик сайтов | Системный инженер | Технический специалист
 
-🌍 Я увлечён созданием качественных веб-приложений и оптимизацией систем, с акцентом на **производительность** и **масштабируемость**.
+## 🛠 Технологии
 
-## 🔧 Мои инструменты
+- **JavaScript** | **Node.js** | **Python**
+- **HTML** | **CSS**
 
-### Языки программирования
-📝 **JavaScript**, 🐍 **Python**, ⚡ **Node.js**, 🌐 **HTML**, 🎨 **CSS**
+## 🔧 Инструменты
 
-### Инструменты и редакторы
-💻 **VS Code**, 🔥 **Sublime Text 3**, 🌌 **MobaxTerm**, 🚀 **XFTP**
+- **VS Code** | **Sublime Text** | **MobaxTerm** | **XFTP**
 
-## 📈 Статистика
+## 📊 Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🌟 Мои достижения
+## 🚀 Мои проекты
 
-- 📊 **100+ проектов** на GitHub
-- 🛠 **10+ лет опыта** в разработке
-- 🎯 Эксперт в **создании быстрых и масштабируемых веб-приложений**
+🔗 [Проект 1](ссылка) | 🔗 [Проект 2](ссылка)
 
-## 🧑‍💻 Мои проекты
+## 📬 Контакты
 
-🔗 **[Проект 1](ссылка_на_проект)** — Описание проекта  
-🔗 **[Проект 2](ссылка_на_проект)** — Описание проекта  
-
-## 📬 Связаться со мной
-
-- 📧 **Email:** [ваш_email@домен.com](mailto:ваш_email@домен.com)
-- 🔗 **LinkedIn:** [ваш_профиль](ссылка)
-- 🌐 **Website/Portfolio:** [ваш_сайт](ссылка)
+- 📧 [ваш_email@домен.com](mailto:ваш_email@домен.com)
+- 🌐 [ваш сайт](ссылка)
 
 ---
 
-### 🛠 Мои достижения на GitHub
+### 🌍 Найдёшь меня здесь:
 
-- 🎯 **50+ репозиториев**, 2000+ коммитов
-- 🌱 Стараюсь каждый день улучшать свои навыки
-- 💬 Постоянно делюсь знаниями и помогаю сообществу
-
-## 📌 Лучшая идея для старта
-
-"Никогда не останавливайся на достигнутом. Мир меняется быстро, и важно двигаться вместе с ним." 🌟
-
----
-
-### 🌟 Подписывайтесь на меня:
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ваш_Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ваш_Twitter)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Ваш_профиль-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ваш_профиль)  
-[![Portfolio Badge](https://img.shields.io/badge/-Мой_сайт-FF6347?style=flat&logo=html5&logoColor=white)](https://ваш_сайт)
+[![Twitter](https://img.shields.io/badge/-@Ваш_Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ваш_Twitter)  
+[![LinkedIn](https://img.shields.io/badge/-Ваш_профиль-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ваш_профиль)  
+[![Portfolio](https://img.shields.io/badge/-Мой_сайт-FF6347?style=flat&logo=html5&logoColor=white)](https://ваш_сайт)
 
