@@ -1,34 +1,27 @@
-# Привет, я [Ваше имя] 👨‍💻
+# Привет! Я **nemazil** 👨‍💻  
+Являюсь **разработчиком** | **системным инженером** | **техническим специалистом**
 
-Разработчик сайтов | Системный инженер | Технический специалист
+## 🛠 Мои навыки:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 
-## 🛠 Технологии
+## 🔧 Инструменты:
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+- ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)  
+- ![MobaXterm](https://img.shields.io/badge/MobaXterm-3A3A3A?style=flat&logo=mobaxterm&logoColor=white)
 
-- **JavaScript** | **Node.js** | **Python**
-- **HTML** | **CSS**
+## 📊 Статистика:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemazil&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🔧 Инструменты
+## 🚀 Мои проекты:
+- 🔗 [Проект 1](ссылка)  
+- 🔗 [Проект 2](ссылка)
 
-- **VS Code** | **Sublime Text** | **MobaxTerm** | **XFTP**
-
-## 📊 Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 🚀 Мои проекты
-
-🔗 [Проект 1](ссылка) | 🔗 [Проект 2](ссылка)
-
-## 📬 Контакты
-
-- 📧 [ваш_email@домен.com](mailto:ваш_email@домен.com)
-- 🌐 [ваш сайт](ссылка)
-
----
-
-### 🌍 Найдёшь меня здесь:
-
-[![Twitter](https://img.shields.io/badge/-@Ваш_Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ваш_Twitter)  
-[![LinkedIn](https://img.shields.io/badge/-Ваш_профиль-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ваш_профиль)  
-[![Portfolio](https://img.shields.io/badge/-Мой_сайт-FF6347?style=flat&logo=html5&logoColor=white)](https://ваш_сайт)
+## 📬 Контакты:
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) [nemazil#1234](https://discord.com/users/1234)  
+- ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white) [@nemazil](https://t.me/nemazil)  
+- ![Website](https://img.shields.io/badge/Website-FF6347?style=flat&logo=html5&logoColor=white) [Мой сайт](ссылка)
 
