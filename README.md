@@ -1,5 +1,7 @@
+# 🔭 Gleb Mazilov:
+
 # 💫 About Me:
-🔭 Gleb Mazilov<br>👯 I am a developer of websites, projects in different games.<br>🤝 Technical Specialist | System Engineer | Technical Support | Frontend Developer | Minecraft Technician<br>
+👯 I am a developer of websites, projects in different games.<br>🤝 Technical Specialist | System Engineer | Technical Support | Frontend Developer | Minecraft Technician<br>
 
 
 ## 🌐 Socials:
